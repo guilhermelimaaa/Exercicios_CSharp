@@ -1,0 +1,13 @@
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio06\bin\Debug\netcoreapp3.1\Exercicio06.exe
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio06\bin\Debug\netcoreapp3.1\Exercicio06.deps.json
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio06\bin\Debug\netcoreapp3.1\Exercicio06.runtimeconfig.json
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio06\bin\Debug\netcoreapp3.1\Exercicio06.runtimeconfig.dev.json
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio06\bin\Debug\netcoreapp3.1\Exercicio06.dll
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio06\bin\Debug\netcoreapp3.1\Exercicio06.pdb
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio06\obj\Debug\netcoreapp3.1\Exercicio06.csprojAssemblyReference.cache
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio06\obj\Debug\netcoreapp3.1\Exercicio06.csproj.CoreCompileInputs.cache
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio06\obj\Debug\netcoreapp3.1\Exercicio06.AssemblyInfoInputs.cache
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio06\obj\Debug\netcoreapp3.1\Exercicio06.AssemblyInfo.cs
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio06\obj\Debug\netcoreapp3.1\Exercicio06.dll
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio06\obj\Debug\netcoreapp3.1\Exercicio06.pdb
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio06\obj\Debug\netcoreapp3.1\Exercicio06.genruntimeconfig.cache

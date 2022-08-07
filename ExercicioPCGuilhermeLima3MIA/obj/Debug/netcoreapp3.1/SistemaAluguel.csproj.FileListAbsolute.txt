@@ -1,0 +1,26 @@
+/home/caio/Documentos/ETEC/PC/SistemaAluguel/SistemaAluguel/bin/Debug/netcoreapp3.1/SistemaAluguel
+/home/caio/Documentos/ETEC/PC/SistemaAluguel/SistemaAluguel/bin/Debug/netcoreapp3.1/SistemaAluguel.deps.json
+/home/caio/Documentos/ETEC/PC/SistemaAluguel/SistemaAluguel/bin/Debug/netcoreapp3.1/SistemaAluguel.runtimeconfig.json
+/home/caio/Documentos/ETEC/PC/SistemaAluguel/SistemaAluguel/bin/Debug/netcoreapp3.1/SistemaAluguel.runtimeconfig.dev.json
+/home/caio/Documentos/ETEC/PC/SistemaAluguel/SistemaAluguel/bin/Debug/netcoreapp3.1/SistemaAluguel.dll
+/home/caio/Documentos/ETEC/PC/SistemaAluguel/SistemaAluguel/bin/Debug/netcoreapp3.1/SistemaAluguel.pdb
+/home/caio/Documentos/ETEC/PC/SistemaAluguel/SistemaAluguel/obj/Debug/netcoreapp3.1/SistemaAluguel.csprojAssemblyReference.cache
+/home/caio/Documentos/ETEC/PC/SistemaAluguel/SistemaAluguel/obj/Debug/netcoreapp3.1/SistemaAluguel.csproj.CoreCompileInputs.cache
+/home/caio/Documentos/ETEC/PC/SistemaAluguel/SistemaAluguel/obj/Debug/netcoreapp3.1/SistemaAluguel.AssemblyInfoInputs.cache
+/home/caio/Documentos/ETEC/PC/SistemaAluguel/SistemaAluguel/obj/Debug/netcoreapp3.1/SistemaAluguel.AssemblyInfo.cs
+/home/caio/Documentos/ETEC/PC/SistemaAluguel/SistemaAluguel/obj/Debug/netcoreapp3.1/SistemaAluguel.dll
+/home/caio/Documentos/ETEC/PC/SistemaAluguel/SistemaAluguel/obj/Debug/netcoreapp3.1/SistemaAluguel.pdb
+/home/caio/Documentos/ETEC/PC/SistemaAluguel/SistemaAluguel/obj/Debug/netcoreapp3.1/SistemaAluguel.genruntimeconfig.cache
+D:\EAD Etec 2020\Técnico\Programacão de Computadores\Concluídos\aluguel\obj\Debug\netcoreapp3.1\SistemaAluguel.csprojAssemblyReference.cache
+D:\EAD Etec 2020\Técnico\Programacão de Computadores\Concluídos\aluguel\obj\Debug\netcoreapp3.1\SistemaAluguel.AssemblyInfoInputs.cache
+D:\EAD Etec 2020\Técnico\Programacão de Computadores\Concluídos\aluguel\obj\Debug\netcoreapp3.1\SistemaAluguel.AssemblyInfo.cs
+D:\EAD Etec 2020\Técnico\Programacão de Computadores\Concluídos\aluguel\obj\Debug\netcoreapp3.1\SistemaAluguel.csproj.CoreCompileInputs.cache
+D:\EAD Etec 2020\Técnico\Programacão de Computadores\Concluídos\aluguel\obj\Debug\netcoreapp3.1\SistemaAluguel.dll
+D:\EAD Etec 2020\Técnico\Programacão de Computadores\Concluídos\aluguel\obj\Debug\netcoreapp3.1\SistemaAluguel.pdb
+D:\EAD Etec 2020\Técnico\Programacão de Computadores\Concluídos\aluguel\bin\Debug\netcoreapp3.1\SistemaAluguel.exe
+D:\EAD Etec 2020\Técnico\Programacão de Computadores\Concluídos\aluguel\bin\Debug\netcoreapp3.1\SistemaAluguel.deps.json
+D:\EAD Etec 2020\Técnico\Programacão de Computadores\Concluídos\aluguel\bin\Debug\netcoreapp3.1\SistemaAluguel.runtimeconfig.json
+D:\EAD Etec 2020\Técnico\Programacão de Computadores\Concluídos\aluguel\bin\Debug\netcoreapp3.1\SistemaAluguel.runtimeconfig.dev.json
+D:\EAD Etec 2020\Técnico\Programacão de Computadores\Concluídos\aluguel\bin\Debug\netcoreapp3.1\SistemaAluguel.dll
+D:\EAD Etec 2020\Técnico\Programacão de Computadores\Concluídos\aluguel\bin\Debug\netcoreapp3.1\SistemaAluguel.pdb
+D:\EAD Etec 2020\Técnico\Programacão de Computadores\Concluídos\aluguel\obj\Debug\netcoreapp3.1\SistemaAluguel.genruntimeconfig.cache

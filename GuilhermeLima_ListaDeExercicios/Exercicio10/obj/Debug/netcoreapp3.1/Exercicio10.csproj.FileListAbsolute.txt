@@ -1,0 +1,3 @@
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio10\obj\Debug\netcoreapp3.1\Exercicio10.csproj.CoreCompileInputs.cache
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio10\obj\Debug\netcoreapp3.1\Exercicio10.AssemblyInfoInputs.cache
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exercicio10\obj\Debug\netcoreapp3.1\Exercicio10.AssemblyInfo.cs

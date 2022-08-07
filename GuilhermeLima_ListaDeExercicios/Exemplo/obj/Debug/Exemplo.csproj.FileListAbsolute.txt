@@ -1,0 +1,2 @@
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exemplo\obj\Debug\Exemplo.csprojAssemblyReference.cache
+D:\Aulas bostas que entrei para ter um futuro\3º Ano\C#\GuilhermeLima_ListaDeExercicios\Exemplo\obj\Debug\Exemplo.csproj.CoreCompileInputs.cache
